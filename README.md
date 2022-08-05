@@ -16,4 +16,4 @@ Skills & Abilities:
  React Native CLI and Expo 
  AWS / Digital Ocean.
 
-Say hello on <a href='facebook.com/saqib.rubydev'>facebook</a>.
+Say hello on <a href='https://facebook.com/saqib.rubydev'>facebook</a>.
